@@ -1,3 +1,3 @@
 # reggiebaraza.github.io
-Sample Booking Page {QA}
+Sample HTML Booking Page {QA}
 https://reggiebaraza.github.io/
